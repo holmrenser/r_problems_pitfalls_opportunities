@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # About this presentation
 ## This presentation was created with R!
+Source: https://github.com/holmrenser/r_problems_pitfalls_opportunities
 
 - Primary source code is an Rmarkdown file
 - 'Knit' to powerpoint to create a presentation
